@@ -1,2 +1,3 @@
 # docker-vika-caddy
-Convenient Caddy Docker
+
+Convenient Caddy Docker for Vikadata custom use
